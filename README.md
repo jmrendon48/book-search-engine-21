@@ -6,7 +6,7 @@ A fully functioning Google Books API search engine, built using the MERN stack, 
 
 ## Built With
 
-- MongoeDB
+- MongoDB
 - Express.js
 - React.js
 - Node.js
